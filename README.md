@@ -1,5 +1,5 @@
-# FladdleSample
-Sample Android project that uses the com.android.test plugin
+# FladleSample
+Sample Android project that uses the `com.android.test` plugin to test with the [Fladle Plugin](https://runningcode.github.io/fladle/).
 
 
 # Build APKs
