@@ -1,0 +1,3 @@
+include ':testmodule2'
+include ':app'
+rootProject.name = "Fladdlesample2"
